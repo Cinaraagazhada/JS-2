@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.app_form{
+border: 1px solid black;
+width: 350px;
+background-color: rgba(0, 0, 0, 0.089);
+}
+.app_title{
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+}
+.card{
+margin-top: 300px;
+border: 1px solid black;
+height: 100px;
+background-color:rgba(0, 0, 0, 0.089) ;
+}   
